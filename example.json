@@ -1,4 +1,4 @@
 {
     "action": "formContact",
-    "status": { "status": "true", "message": "Poprawnie wysłano dane" }
+    "status": { "status": "success", "message": "Poprawnie wysłano dane" }
 }
